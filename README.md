@@ -1,6 +1,6 @@
 # PLEASE STAR ⭐
 
-## Gamesense.dog clone
+## skeet.cc clone
 This is a clone of gamesense.dog, not too much to say, enjoy it! Don't forget about joining our discord community for more free ImGui designs! https://discord.gg/CsuXTegewj
 
 ### Here you can take a look of the menu (fully showcase on https://www.youtube.com/watch?v=YDqaSHDMb3A)<p align="center">
